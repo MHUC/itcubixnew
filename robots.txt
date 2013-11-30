@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /arijmaa/
+Disallow: /SKI/
+Disallow: /servlet/
+Disallow: /merina/
